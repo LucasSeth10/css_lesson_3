@@ -10,3 +10,5 @@
 .c {text-decoration:underline;}
 
 .typography {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; letter-spacing: 1px; line-height: 10px;font-size: 10px;}
+
+.boxshadow { height:100px; width:100px; box-shadow: 19px 15px 13px; color: blue;}
