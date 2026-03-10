@@ -7,4 +7,6 @@
     background-color: blue;
 }
 
-.c {text-decoration:capitalize;}
+.c {text-decoration:underline;}
+
+.typography {font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; letter-spacing: 1px; line-height: 10px;font-size: 10px;}
