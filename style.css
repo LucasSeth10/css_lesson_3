@@ -1,1 +1,10 @@
-#shadow {text-shadow:25px 50px 90px red;}
+#shadow {text-shadow:25px 15px 2px red;}
+
+.b {
+    transform: skewX(29deg);
+    height:100px;
+    width:75px;
+    background-color: blue;
+}
+
+.c {text-decoration:capitalize;}
