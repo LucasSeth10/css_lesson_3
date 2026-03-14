@@ -1,0 +1,7 @@
+*{text-align: center; font-family: monospace;}
+
+#text {text-shadow: 2px 2px 1px #cc4;} 
+
+#box {box-shadow: 9px 8px 5px #c5c5c5;}
+
+#indent {text-indent: 50%;}

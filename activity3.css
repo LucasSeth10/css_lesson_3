@@ -1,0 +1,4 @@
+h1 {text-decoration: underline; color: blueviolet; text-transform: capitalize;}
+h2 {text-decoration:line-through; color: blue; text-transform:lowercase;}
+h3 {text-decoration:overline; color:blanchedalmond; text-transform:uppercase;}
+h4 {text-decoration: overline underline; color: bisque;}
